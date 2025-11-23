@@ -19,4 +19,4 @@ This project showcases SQL skills including database design, table creation, rel
 - SQL Queries  
 - RDBMS concepts  
 
-## 🚀 How to Run
+
